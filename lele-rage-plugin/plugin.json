@@ -1,0 +1,19 @@
+{
+  "name": "lele-rage-plugin",
+  "displayName": "Lele Rage Plugin",
+  "description": "A Claude Code plugin with rage mode, poem generator, and sonnet creator",
+  "version": "1.0.0",
+  "author": "FlameMiss9",
+  "license": "MIT",
+  "commands": [
+    {
+      "name": "rage",
+      "description": "Activate rage mode when triggered"
+    }
+  ],
+  "skills": [
+    "lele-rage-mode",
+    "wuwuole-poem",
+    "wuwuole-sonnet"
+  ]
+}
